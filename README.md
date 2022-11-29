@@ -1,4 +1,4 @@
-![logo](https://github.com/souravpl8092/souravpl8092/blob/main/iFull%20stack%20web%20Developer.png)
+![logo](https://github.com/souravpl8092/souravpl8092/blob/main/iFull%20stack%20web%20Developer%20(1).png)
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sourav Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
