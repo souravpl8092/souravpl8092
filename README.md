@@ -1,6 +1,6 @@
 ![logo](https://github.com/souravpl8092/souravpl8092/blob/main/iFull%20stack%20web%20Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Sourav Paul</h1>
-<h3 align="center">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
+<h3 align="center">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love travelling and exploring new places and listening to music 🎵. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
