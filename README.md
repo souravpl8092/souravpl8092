@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
 
+-  I’m currently learning React.js
+
 - 👨‍💻 All of my projects are available at [https://souravpl8092.github.io/](https://souravpl8092.github.io/)
 
-- 📫 Jamshedpur, Jharkhand **souravpl8092@gmail.com**
+- 📫  How to reach me **souravpl8092@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact  **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
