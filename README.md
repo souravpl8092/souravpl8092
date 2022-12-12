@@ -11,6 +11,8 @@
 
 - 📫  How to reach me **souravpl8092@gmail.com**
 
+-  Linkedin - https://www.linkedin.com/in/sourav-paul-276ba323a/
+
 - ⚡ Fun fact  **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
 
 <h3 align="left">Connect with me:</h3>
