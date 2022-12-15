@@ -38,7 +38,6 @@
 <hr/>
 <h3>My Github Stats</h3>
 <br/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravpl8092&show_icons=true&locale=en&layout=compact" alt="souravpl8092" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravpl8092&show_icons=true&locale=en" alt="souravpl8092" /></p>
