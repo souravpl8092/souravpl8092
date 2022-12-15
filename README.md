@@ -1,19 +1,30 @@
 ![logo](https://github.com/souravpl8092/souravpl8092/blob/main/iFull%20stack%20web%20Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Sourav Paul</h1>
-<h3 align="center">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love travelling and exploring new places and listening to music 🎵. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
+<h3 align="justify">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love travelling and exploring new places and listening to music 🎵. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
+<br/>
+<hr/>
+<br/>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
+<h2>About me</h2>
+<br/>
 
--  I’m currently learning React.js
+- 🔭 I’m currently pursuing Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [https://souravpl8092.github.io/](https://souravpl8092.github.io/)
+- 🌱 I’m currently learning React.js
 
-- 📫  How to reach me **souravpl8092@gmail.com**
+- 👨‍💻 All of my projects are available at <h4><a href="https://souravpl8092.github.io/" target="blank">Portfolio</a></h4>
 
--  Linkedin - https://www.linkedin.com/in/sourav-paul-276ba323a/
+- 📄 Check out my <h4><a href="https://drive.google.com/file/d/1BtlCp0aiUlaiP5yReW94bd1zuMLCXAFW/view" target="blank">Resume</a></h4>
 
-- ⚡ Fun fact  **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
+- 💬 Ask me about HTML, CSS, JavaScript, React.js
+
+- 📫 How to reach me **souravpl8092@gmail.com**
+
+- 📫 Linkedin - https://www.linkedin.com/in/sourav-paul-276ba323a/
+
+- ⚡ Fun fact : **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
