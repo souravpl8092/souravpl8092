@@ -77,3 +77,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=souravpl8092&show_icons=true&include_all_commits=true&count_private=true&contribs&locale=en&theme=radical" alt="souravpl8092"/>
 <img style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=souravpl8092&theme=dark" alt="souravpl8092">
 </div>
+<br>
+<br>
+
+![souravpl8092 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souravpl8092&theme=dracula)
