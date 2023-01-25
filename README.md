@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning React.js
+- 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://souravpl8092.github.io/)
 
@@ -28,9 +28,11 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, React.js
 
-- 📫 How to reach me **souravpl8092@gmail.com**
+- 📫 How to reach me **souravpl10@gmail.com**
 
 - 📫 Linkedin - [sourav-paul-276ba323a](https://www.linkedin.com/in/sourav-paul-276ba323a/)
+
+- 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
 
 - ⚡ Fun fact : **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
 <br/>
@@ -41,6 +43,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sourav-paul-276ba323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-paul-276ba323a/" height="30" width="40" /></a>
   <a href="https://twitter.com/Souravpl500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sourav Paul" height="30" width="40" /></a>
+
+  
 </p>
 <hr/>
 <h2 align="center">🚀 Languages and Tools:</h2>
