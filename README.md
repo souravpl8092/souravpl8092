@@ -20,9 +20,11 @@
 
 - 🌱 I’m currently learning React.js
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://souravpl8092.github.io/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://souravpl8092.github.io/)
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1BtlCp0aiUlaiP5yReW94bd1zuMLCXAFW/view)
+
+- 💞️ I’m looking to collaborate on **Projects**
 
 - 💬 Ask me about HTML, CSS, JavaScript, React.js
 
@@ -51,21 +53,24 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  </div>
 <div align="center"><h3 align="center">Tools</h3> 
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
  </div>
 </div>
 <hr/>
@@ -76,8 +81,12 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravpl8092&layout=compact&theme=radical" alt="souravpl8092" />
 <img src="https://github-readme-stats.vercel.app/api?username=souravpl8092&show_icons=true&include_all_commits=true&count_private=true&contribs&locale=en&theme=radical" alt="souravpl8092"/>
 <img style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=souravpl8092&theme=radical" alt="souravpl8092">
+  
+<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 </div>
 <br>
 <br>
 
 ![souravpl8092 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souravpl8092&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
