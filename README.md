@@ -28,7 +28,7 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, React.js
 
-- 📫 How to reach me **souravpl10@gmail.com**
+- 📫 How to reach me **souravp8092@gmail.com**
 
 - 📫 Linkedin - [sourav-paul-276ba323a](https://www.linkedin.com/in/sourav-paul-276ba323a/)
 
