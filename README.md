@@ -83,5 +83,5 @@
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=souravpl8092&show_icons=true&locale=en" alt="souravpl8092" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=souravpl8092&" alt="souravpl8092" w="10%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravpl8092&show_icons=true&locale=en&layout=compact" alt="souravpl8092" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravpl8092&show_icons=true&locale=en&layout=compact" alt="souravpl8092" />
 </div>
