@@ -40,11 +40,20 @@
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
-<p align="center">
-<a href="https://www.linkedin.com/in/sourav-paul-276ba323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-paul-276ba323a/" height="30" width="40" /></a>
-  <a href="https://twitter.com/Souravpl500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sourav Paul" height="30" width="40" /></a>
 
+<p align="center">
   
+   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  
+  <a href="https://twitter.com/Souravpl500">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+
+<a href="https://www.linkedin.com/in/sourav-paul-276ba323a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 <hr/>
 <h2 align="center">🚀 Languages and Tools:</h2>
