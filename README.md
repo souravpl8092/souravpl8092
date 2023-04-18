@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://souravpl8092.github.io/)
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1BtlCp0aiUlaiP5yReW94bd1zuMLCXAFW/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1oJRimqmYFWLFSMBbWeLdnjvbHLHIkSub/view?usp=sharing)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
