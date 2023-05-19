@@ -6,7 +6,7 @@
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=souravpl8092&margin-w=15&margin-h=15&column=8" alt="souravpl8092"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=souravpl8092&column=7" alt="souravpl8092"/> </p>
 
 <br/>
 <hr/>
