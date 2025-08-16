@@ -1,14 +1,9 @@
 ![logo](https://i.imgur.com/v0ewp0t.png)
 <h1 align="center">Hi 👋, I'm Sourav Paul</h1>
 <br/>
-<h4 align="justify">💻 I’m a passionate MERN Stack Developer with 2 years of experience building high-performance web applications and integrating APIs. I’ve worked on projects like a Bulk Messaging Platform, Custom Dashboards, Chatbots, and contributed to the Heyhomie Website & App, helping small businesses streamline their operations.</h4>
+<h3 align="justify">💻 MERN Stack Developer with 2 years of experience building scalable web apps, APIs, and real-time solutions. I’ve worked on projects like bulk messaging platforms, interactive client dashboards for data visualization, chatbots, and the Heyhomie app. Passionate about emerging web tech, creative coding, and turning ideas into impactful solutions. Outside of work, I enjoy traveling, exploring new places, and music 🎵—and I’m always open to engaging conversations about creative coding and innovative web development 😃.</h3>
 
-<h4 align="justify">⚡ I specialize in React.js, Next.js, Node.js, Express.js, MongoDB, Redux, and API Orchestration, with a focus on creating scalable, user-friendly solutions and real-time data integrations.</h4>
-
-<h4 align="justify">🎯 Beyond coding, I love exploring emerging web technologies, solving problems with creative coding, and building platforms that drive business growth.</h4>
-
-<h4 align="justify">🌍 Outside of tech, I enjoy traveling, discovering new places, and listening to music 🎵. I’m always open to discussions about creative coding, full-stack development, and innovative web solutions — so feel free to reach out 😃</h4>
-
+<br/>
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
