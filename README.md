@@ -1,8 +1,14 @@
 ![logo](https://i.imgur.com/v0ewp0t.png)
 <h1 align="center">Hi 👋, I'm Sourav Paul</h1>
 <br/>
-<h3 align="justify">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love travelling and exploring new places and listening to music 🎵. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
-<br/>
+<h4 align="justify">💻 I’m a passionate MERN Stack Developer with 2 years of experience building high-performance web applications and integrating APIs. I’ve worked on projects like a Bulk Messaging Platform, Custom Dashboards, Chatbots, and contributed to the Heyhomie Website & App, helping small businesses streamline their operations.</h4>
+
+<h4 align="justify">⚡ I specialize in React.js, Next.js, Node.js, Express.js, MongoDB, Redux, and API Orchestration, with a focus on creating scalable, user-friendly solutions and real-time data integrations.</h4>
+
+<h4 align="justify">🎯 Beyond coding, I love exploring emerging web technologies, solving problems with creative coding, and building platforms that drive business growth.</h4>
+
+<h4 align="justify">🌍 Outside of tech, I enjoy traveling, discovering new places, and listening to music 🎵. I’m always open to discussions about creative coding, full-stack development, and innovative web solutions — so feel free to reach out 😃</h4>
+
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=souravpl8092&label=Profile%20views&color=0e75b6&style=flat" alt="souravpl8092" /> </p>
@@ -16,23 +22,23 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’m currently working as an Application Specialist with experience in Full Stack Web Development.
 
-- 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
+- 👨‍💻 Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js), along with Next.js, Redux, API Orchestration, and Real-time Data Integration.
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://souravpl8092.github.io/)
+- 👨‍💻 I’ve built and contributed to projects like a Bulk Messaging Platform, Custom Dashboards, Chatbots, and the Heyhomie Website & App (helping home-based food entrepreneurs manage orders and customers).
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1oJRimqmYFWLFSMBbWeLdnjvbHLHIkSub/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1oJRimqmYFWLFSMBbWeLdnjvbHLHIkSub/view?usp=sharing) | All of my projects are available at Github and [Portfolio](https://souravpl8092.github.io/) 
 
 - 💞️ I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about HTML, CSS, JavaScript, React.js
+- 💬 Ask me about HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
 
 - 📫 How to reach me **souravpl8092@gmail.com**
 
 - 📫 Linkedin - [sourav-paul-276ba323a](https://www.linkedin.com/in/sourav-paul-276ba323a/)
 
-- 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
+- 💪🏼 Future Goals: Continue mastering emerging web technologies and deliver impactful solutions.
 
 - ⚡ Fun fact : **The JavaScript programming language is unique in that it is not tied to any specific company or organization.**
 <br/>
